@@ -1,4 +1,3 @@
-#Tproger
 #Updated 3rd November 2023
 #Appodeal
 appodeal.com, 235205, DIRECT
